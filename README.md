@@ -260,6 +260,8 @@ See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wik
 * [RazrFalcon/svgcleaner](https://github.com/RazrFalcon/svgcleaner) — tidies SVG graphics
 * [Twinklebear/tray_rust](https://github.com/Twinklebear/tray_rust) — A ray tracer [![build badge](https://api.travis-ci.org/Twinklebear/tray_rust.svg?branch=master)](https://travis-ci.org/Twinklebear/tray_rust)
 * [turnage/valora](https://crates.io/crates/valora) — A library for generative fine art ![Rust](https://github.com/turnage/valora/workflows/Rust/badge.svg?branch=master)
+* [jrmuizel/raqote](https://github.com/jrmuizel/raqote) - Rust 2D graphics library [![build badge] (https://travis-ci.org/jrmuizel/raqote.svg?branch=master)]
+* [QuantumBadger/Speedy2D](https://github.com/QuantumBadger/Speedy2D) - Rust library for hardware accelerated drawing of 2D shapes, images, and text, with an easy to use API. [![build badge](https://github.com/QuantumBadger/Speedy2D/actions/workflows/build.yml/badge.svg)]
 * Image processing:
   * [mikigraf/Image-Processing-CLI-in-Rust](https://github.com/mikigraf/Image-Processing-CLI-in-Rust) — CLI for processing images, generating histograms. [![Build Status](https://api.travis-ci.org/spejss/Image-Processing-CLI-in-Rust.svg?branch=master)](https://travis-ci.org/spejss/Image-Processing-CLI-in-Rust)
 
